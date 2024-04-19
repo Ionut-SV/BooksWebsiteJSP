@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+body {
+	background-image: url("Image/Books.jpg");
+	background-repeat: repeat;
+}
+h1, h2 , a{
+	color: white;
+	margin-bottom: 5%;
+}
+table {
+	color: white;
+}
+td {
+	color: white;
+}
+
+div{
+	margin: 5%;
+	margin-left: 5%;
+	margin-right:5%;
+	background-color: black;
+	border-style: solid;
+	border-radius: 3%;
+	opacity: 93%;
+}
